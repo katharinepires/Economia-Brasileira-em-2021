@@ -6,7 +6,7 @@ Deixo anexado aqui nesse repositório os dados e o modelo usado para a realizaç
 - ``ipca.csv``, dados do IPCA
 - o script contendo os códigos
 
-Usei a biblioteca `Plotly`, o legal dessa biblioteca é poder nos proporcionar a chance de passar o cursor do mouse e acompanhar os valores ali plotados. Irei deixar algumas imagens de um dos gráficos e deixarei o arquivo do Notebook original de maneira individual, para que assim todo o projeto seja visto por completo e com a dinamicidade proposta.
+Usei a biblioteca `Plotly`, o legal dessa biblioteca é poder nos proporcionar a chance de passar o cursor do mouse e acompanhar os valores ali plotados. Irei deixar algumas imagens de um dos gráficos, assim todo o projeto é visto com a dinamicidade proposta.
 
 ![newplot](https://user-images.githubusercontent.com/67076633/94880768-4eb48600-043a-11eb-980f-faa6d87bed22.png)
 
